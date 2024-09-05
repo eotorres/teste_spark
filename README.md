@@ -1,4 +1,4 @@
-<!--
+
 Teste de Conhecimentos em PySpark:
 
 Parte 1: Manipulação de Dados
@@ -48,4 +48,4 @@ Carregue o arquivo de log em um DataFrame.
 Conte o número de ações realizadas por cada usuário.
 Encontre os 10 usuários mais ativos.
 Salve o resultado em um arquivo CSV.
---> 
+
