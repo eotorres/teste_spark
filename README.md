@@ -2,22 +2,22 @@
 # Teste de Conhecimentos em PySpark:
 
 *    Parte 1: Manipulação de Dados
-Criação de DataFrame
-Crie um DataFrame a partir do seguinte conjunto de dados:
-data = [
-    ("Alice", 34, "Data Scientist"),
-    ("Bob", 45, "Data Engineer"),
-    ("Cathy", 29, "Data Analyst"),
-    ("David", 35, "Data Scientist")
-]
-columns = ["Name", "Age", "Occupation"]
-Filtragem e Seleção
-Selecione apenas as colunas "Name" e "Age" do DataFrame criado.
-Filtre as linhas onde a "Age" é maior que 30.
-Agrupamento e Agregação
-Agrupe os dados pelo campo "Occupation" e calcule a média de "Age" para cada grupo.
-Ordenação
-Ordene o DataFrame resultante da questão anterior pela média de "Age" em ordem decrescente.
+*Criação de DataFrame
+*Crie um DataFrame a partir do seguinte conjunto de dados:
+*data = [
+*    ("Alice", 34, "Data Scientist"),
+*    ("Bob", 45, "Data Engineer"),
+*    ("Cathy", 29, "Data Analyst"),
+*    ("David", 35, "Data Scientist")
+*]
+*columns = ["Name", "Age", "Occupation"]
+*Filtragem e Seleção
+*Selecione apenas as colunas "Name" e "Age" do DataFrame criado.
+*Filtre as linhas onde a "Age" é maior que 30.
+*Agrupamento e Agregação
+*Agrupe os dados pelo campo "Occupation" e calcule a média de "Age" para cada grupo.
+*Ordenação
+*Ordene o DataFrame resultante da questão anterior pela média de "Age" em ordem decrescente.
 
 *    Parte 2: Funções Avançadas
 Uso de UDFs (User Defined Functions)
