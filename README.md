@@ -1,7 +1,7 @@
 
 ## Teste de Conhecimentos em PySpark:
 
-#Parte 1: Manipulação de Dados
+*    Parte 1: Manipulação de Dados
 Criação de DataFrame
 Crie um DataFrame a partir do seguinte conjunto de dados:
 data = [
@@ -19,7 +19,7 @@ Agrupe os dados pelo campo "Occupation" e calcule a média de "Age" para cada gr
 Ordenação
 Ordene o DataFrame resultante da questão anterior pela média de "Age" em ordem decrescente.
 
-#Parte 2: Funções Avançadas
+*    Parte 2: Funções Avançadas
 Uso de UDFs (User Defined Functions)
 Crie uma função em Python que converte idades para categorias:
 Menor que 30: "Jovem"
